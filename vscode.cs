@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bank_app
+namespace solution
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world is nice");
+            Console.WriteLine("hello world");
         }
     }
 }
