@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace bank_app
+namespace ConsoleApp4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.WriteLine("ur good");
         }
     }
 }
